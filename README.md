@@ -1,6 +1,6 @@
 - 👋 Hola!, Soy Lautaro Nicolas Luna
 - 🌱 Estoy constantemente aprendiendo nuevas tecnologias y nuevos conocimientos, capacitandome para seguir creciendo en mi carrera profesional
 - 👯 Me gusta mucho trabajar en equipo y contribuir a la tarea designada de forma activa, soy flexible y muy abierto a nuevos compañeros y amistades
-- 💬 Ask me about ...
+- :mortar_board: Soy Front-end y actualmente me encuentro estudiando en @nucba para ser Full-Stack dev
 - 📫 Podes contactarme a nicolaslautaroluna@gmail.com
 - ⚡ Fun fact: Estoy estudiando licenciatura en Comunicacion Audio-Visual y me fascinan los videojuegos
